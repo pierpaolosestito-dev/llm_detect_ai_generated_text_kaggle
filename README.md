@@ -2,7 +2,7 @@
 
 <center><h2>LLM - Detect AI Generated Text Kaggle Competition</h2></center>
 
-This repository contains a .ipynb which contains an implementation of a Recurrent Neural Network (using Bidirectional LSTM). I used it to join to <a href="https://portswigger.net/web-security/all-labs">LLM - Detect AI Generated Text Kaggle Competition</a> and achieve an accuracy of 0.855 .
+This repository contains a .ipynb which contains an implementation of a Recurrent Neural Network (using Bidirectional LSTM). I used it to join to <a href="https://www.kaggle.com/competitions/llm-detect-ai-generated-text">LLM - Detect AI Generated Text Kaggle Competition</a> and achieve an accuracy of 0.855 .
 
 
 
